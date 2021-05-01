@@ -1,0 +1,48 @@
+.pic1{
+    width: 666px;
+}
+.pic2{
+    width: 666px;
+}
+.pic3{
+    width: 666px;
+}
+.pic4{
+    width: 666px;
+}
+.pic5{
+    width: 666px;
+}
+.pic6{
+    width: 666px;
+}
+.pic7{
+    width: 666px;
+}
+.pic8{
+    width: 666px;
+}
+.pic9{
+    width: 666px;
+}
+.pic10{
+    width: 666px;
+}
+.pic11{
+    width: 666px;
+}
+.pic12{
+    width: 666px;
+}
+.pic13{
+    width: 666px;
+}
+.pic14{
+    width: 666px;
+}
+.container {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    float:right;
+}
